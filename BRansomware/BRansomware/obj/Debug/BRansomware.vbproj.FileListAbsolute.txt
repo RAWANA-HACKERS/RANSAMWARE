@@ -1,0 +1,11 @@
+C:\Users\sniper\Documents\Visual Studio 2017\Projects\BRansomware\BRansomware\bin\Debug\BRansomware.exe.config
+C:\Users\sniper\Documents\Visual Studio 2017\Projects\BRansomware\BRansomware\bin\Debug\BRansomware.exe
+C:\Users\sniper\Documents\Visual Studio 2017\Projects\BRansomware\BRansomware\bin\Debug\BRansomware.pdb
+C:\Users\sniper\Documents\Visual Studio 2017\Projects\BRansomware\BRansomware\bin\Debug\BRansomware.xml
+C:\Users\sniper\Documents\Visual Studio 2017\Projects\BRansomware\BRansomware\obj\Debug\BRansomware.vbprojResolveAssemblyReference.cache
+C:\Users\sniper\Documents\Visual Studio 2017\Projects\BRansomware\BRansomware\obj\Debug\BRansomware.Form1.resources
+C:\Users\sniper\Documents\Visual Studio 2017\Projects\BRansomware\BRansomware\obj\Debug\BRansomware.Resources.resources
+C:\Users\sniper\Documents\Visual Studio 2017\Projects\BRansomware\BRansomware\obj\Debug\BRansomware.vbproj.GenerateResource.Cache
+C:\Users\sniper\Documents\Visual Studio 2017\Projects\BRansomware\BRansomware\obj\Debug\BRansomware.exe
+C:\Users\sniper\Documents\Visual Studio 2017\Projects\BRansomware\BRansomware\obj\Debug\BRansomware.xml
+C:\Users\sniper\Documents\Visual Studio 2017\Projects\BRansomware\BRansomware\obj\Debug\BRansomware.pdb
